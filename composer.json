@@ -8,5 +8,7 @@
             "email": "bengunn87@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.0"
+    }
 }
