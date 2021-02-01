@@ -1,0 +1,12 @@
+{
+    "name": "l.rusakov/hexlet-php",
+    "description": "study project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "bengunn87",
+            "email": "bengunn87@mail.ru"
+        }
+    ],
+    "require": {}
+}
